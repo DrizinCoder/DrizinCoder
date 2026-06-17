@@ -30,7 +30,7 @@ class DrizinCoder:
         }
 
     def fun_fact(self):
-        return "I think closer to the metal → better the software 🔩"
+        return "Real Intelligence >>>> Artificial Intelligence 🧠"
 ```
 
 ---
@@ -57,12 +57,6 @@ class DrizinCoder:
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DrizinCoder&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DrizinCoder&theme=react-dark&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/DrizinCoder)
 
 </div>
 
