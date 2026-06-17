@@ -30,7 +30,7 @@ class DrizinCoder:
         }
 
     def fun_fact(self):
-        return "Real Intelligence >>>>>> Artificial Intelligence 🧠"
+        return "I think closer to the metal → better the software 🔩"
 ```
 
 ---
@@ -39,21 +39,7 @@ class DrizinCoder:
 
 <div align="center">
 
-**AI / ML & Backend**
-
-[![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=36BCF7)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)](https://pytorch.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)](https://fastapi.tiangolo.com)
-[![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=f89820)](https://java.com)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)](https://spring.io/projects/spring-boot)
-[![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://typescriptlang.org)
-
-**Hardware & Embedded**
-
-[![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Verilog](https://img.shields.io/badge/Verilog-0d1117?style=for-the-badge&logo=verilog&logoColor=36BCF7)](#)
-[![FPGA](https://img.shields.io/badge/FPGA-0d1117?style=for-the-badge&logo=xilinx&logoColor=E01F27)](#)
-[![Embedded](https://img.shields.io/badge/Embedded_Systems-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,fastapi,java,spring,ts,c,verilog&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -77,17 +63,6 @@ class DrizinCoder:
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DrizinCoder&theme=react-dark&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/DrizinCoder)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DrizinCoder&repo=NOME_DO_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=8b949e)](https://github.com/DrizinCoder/NOME_DO_REPO_1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DrizinCoder&repo=NOME_DO_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=8b949e)](https://github.com/DrizinCoder/NOME_DO_REPO_2)
 
 </div>
 
