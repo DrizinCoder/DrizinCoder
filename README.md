@@ -33,10 +33,6 @@ class DrizinCoder:
         return "Real Intelligence >>>> Artificial Intelligence 🧠"
 ```
 
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,fastapi,java,spring,ts,c,verilog&theme=dark)](https://skillicons.dev)
@@ -45,7 +41,7 @@ class DrizinCoder:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -62,8 +58,6 @@ class DrizinCoder:
 
 ---
 
-## 💬 Quote
-
 <div align="center">
 
 > *"The best AI is a solid deterministic algorithm, clean data, and a dumb fast model — in that order."*
@@ -71,14 +65,3 @@ class DrizinCoder:
 </div>
 
 ---
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
-</picture>
-
-![Profile Views](https://komarev.com/ghpvc/?username=DrizinCoder&color=36BCF7&style=flat-square&label=Profile+Views)
-
-</div>
