@@ -1,10 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=DrizinCoder&fontSize=50&fontColor=36BCF7&fontAlignY=38&desc=SWE%20%7C%20AI%2FML%20%7C%20Hardware%20Enthusiast&descAlignY=58&descColor=8b949e&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=DrizinCoder&fontSize=50&fontColor=36BCF7&fontAlignY=38&desc=SWE%20%7C%20AI%2FML%20%7C%20Hardware%20Enthusiast&descAlignY=58&descColor=8b949e&animation=fadeIn" />
-</picture>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+AI%2FML+Developer;FPGA+%26+Embedded+Systems+Enthusiast)](https://git.io/typing-svg)
 
 </div>
